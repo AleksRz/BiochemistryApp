@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">Biochemistry Quiz</string>
+    <string name="hello_text">Welcome to Biochemisty Quiz</string>
+    <string name="hello_text_second">The following quiz will test your knowledge of biochemistry. Good luck!</string>
+    <string name="first_question"> 1. How many types of amino acid are necessary to synthesise protein in human body?</string>
+    <string name="first_question_first_answer" translatable="false">36</string>
+    <string name="first_question_second_answer" translatable="false">20</string>
+    <string name="first_question_third_answer" translatable="false">16</string>
+    <string name="second_question">2. What is the name of this bond?</string>
+    <string name="second_question_first_answer">Hydrogen</string>
+    <string name="second_question_second_answer">Covalent</string>
+    <string name="second_question_third_answer">Peptide</string>
+    <string name="third_question">3. Which of the following sugars are simple carbohydrates?</string>
+    <string name="third_question_first_answer">Sucrose</string>
+    <string name="third_question_second_answer">Fructose</string>
+    <string name="third_question_third_answer">Glucose</string>
+    <string name="fourth_question">4. At what temperature does water have maximum density?</string>
+    <string name="fourth_question_first_answer">25 degree Celsius</string>
+    <string name="fourth_question_second_answer">0 degree Celsius</string>
+    <string name="fourth_question_third_answer">4 degree Celsius</string>
+    <string name="fifth_question">5. The difference between DNA and RNA does not lay in</string>
+    <string name="fifth_question_first_answer">Phosphate group</string>
+    <string name="fifth_question_second_answer">Sugar group</string>
+    <string name="fifth_question_third_answer">Nitrogen base</string>
+    <string name="sixth_question">6. Which structure represents the first described form of the DNA?</string>
+    <string name="sixth_question_first_answer">Left one</string>
+    <string name="sixth_question_second_answer">Middle one</string>
+    <string name="sixth_question_third_answer">Right one</string>
+    <string name="seven_question">7. Which of the following can have a quaternary structure?</string>
+    <string name="seven_question_first_answer" translatable="false">DNA</string>
+    <string name="seven_question_second_answer">Protein</string>
+    <string name="seven_question_third_answer">Fatty acid</string>
+    <string name="eight_question">8. How many bonds can carbon form?</string>
+    <string name="eight_question_first_answer" translatable="false">2</string>
+    <string name="eight_question_second_answer" translatable="false">3</string>
+    <string name="eight_question_third_answer" translatable="false">4</string>
+    <string name="nine_question">9. What type of bond do atoms have if they share the electrons unequally?</string>
+    <string name="nine_question_first_answer">Polar covalent</string>
+    <string name="nine_question_second_answer">Ionic</string>
+    <string name="nine_question_third_answer">Hydrogen</string>
+    <string name="tenth_question">10. How many percent of DNA all humans share?</string>
+    <string name="tenth_question_first_answer" translatable="false">90%</string>
+    <string name="tenth_question_second_answer" translatable="false">85%</string>
+    <string name="tenth_question_third_answer" translatable="false">99%</string>
+    <string name="button">Finish</string>
+    <string name="first_sentence">You got: </string>
+    <string name="points">points</string>
+    <string name="second_sentence_first_option">You know something about biochemistry.</string>
+    <string name="third_sentence_first_option">Good job! And keep on learning.</string>
+    <string name="second_sentence_second_option">You know a lot about biochemistry.</string>
+    <string name="third_sentence_second_option">Good job!</string>
+    <string name="second_sentence_thied_option">You are the best.</string>
+    <string name="thied_sentence_thied_option">Good job!</string>
+    <string name="clear_button">Clear score</string>
+
+</resources>
